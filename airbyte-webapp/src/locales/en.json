@@ -574,7 +574,7 @@
   "mapper.hash.optedOut": "Unhashed",
 
   "connection.onboarding.title": "<b>Connections</b> link Sources to Destinations",
-  "connection.onboarding.createFirst": "Create your first connection",
+  "connection.onboarding.createFirst": "Create your first connection on GenE",
   "connection.onboarding.sources": "Sources",
   "connection.onboarding.sourcesDescription": "A source is where Airbyte pulls data from. Airbyte supports many sources across APIs, databases, and files.",
   "connection.onboarding.moreSources": "Connect to any of Airbyte’s {count, plural, =0 {} other {{count}+}} sources",
